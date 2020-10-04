@@ -1,0 +1,26 @@
+{
+  "name": "uniswap-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaowheat/uniswap-learnings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaowheat/uniswap-learnings/issues"
+  },
+  "homepage": "https://github.com/xiaowheat/uniswap-learnings#readme",
+  "dependencies": {
+    "@ethersproject/address": "^5.0.5",
+    "@ethersproject/contracts": "^5.0.5",
+    "@ethersproject/providers": "^5.0.10",
+    "@ethersproject/solidity": "^5.0.5",
+    "@uniswap/sdk": "^3.0.3"
+  }
+}
