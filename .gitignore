@@ -5,10 +5,11 @@
 
 # dependencies
 /node_modules
+*/node_modules
 /.pnp
 .idea/
 .pnp.js
-package-lock.json
+*/package-lock.json
 yarn.lock
 
 # testing
@@ -33,3 +34,5 @@ yarn-error.log*
 *.jar
 /target
 *.zip
+
+.gitkeep
